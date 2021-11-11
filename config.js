@@ -15,4 +15,4 @@ const CONFIG = {
     messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
     btnAccept: 'Ok lun 💖',
     messLink: 'https://m.me/PhungQuocDinh'
-}
+
